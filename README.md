@@ -7,8 +7,8 @@ This code models a car dealership that is developing a website in order to autom
 - Otherwise, if the vehicle is another type of car, it is valued at $15k.
 - If the vehicle is a bike, it is valued at $8k, and is eligible for a 20% bonus if it is a sport-bike whose model is 2020 or after.
 Finally,
-- If the vehicle has more than 100k miles, it loses 20% of the original value
-- If the vehicle is uninsured, it loses 10% of the original value
-- If the vehicle has been in an accident, it loses 10% of the original value
+- If the vehicle has more than 100k miles, it loses 20% of the original value.
+- If the vehicle is uninsured, it loses 10% of the original value.
+- If the vehicle has been in an accident, it loses 10% of the original value.
 
 *The AP CSP Task must contain at least 1 user-defined function and 1 array.*
