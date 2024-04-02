@@ -11,4 +11,4 @@ Finally,
 - If the vehicle is uninsured, it loses 10% of the original value
 - If the vehicle has been in a crash, it loses 10% of the original value
 
-*The AP CSP Task must contain at least 1 user-defined function and 1 loop.*
+*The AP CSP Task must contain at least 1 user-defined function and 1 array.*
