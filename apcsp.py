@@ -14,7 +14,7 @@
 #Finally,
 #if the vehicle has more than 100k miles, it loses 20% of the original value
 #if the vehicle is uninsured, it loses 10% of the original value
-#if the vehicle has been in a crash, it loses 10% of the original value
+#if the vehicle has been in an accident, it loses 10% of the original value
 
 cars=["SUV","Sedan","Sports-car"]
 bikes=["Motorcycle", "Sport-bike"]
